@@ -136,7 +136,7 @@ const ElementsPage = ({ data }, location) => {
           </blockquote>
           <hr />
           <h2 id="images">Images</h2>
-          <figure className="kg-card kg-image-card">
+          {/* <figure className="kg-card kg-image-card">
             <Img
               fluid={data.smallPic.childImageSharp.fluid}
               className="kg-image"
@@ -156,7 +156,7 @@ const ElementsPage = ({ data }, location) => {
               className="kg-image"
             />
             <figcaption>Full bleed image</figcaption>
-          </figure>
+          </figure> */}
           <hr />
           <h2 id="table">Table</h2>
           <table>
