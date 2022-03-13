@@ -40,8 +40,6 @@ Esta prenda de detalles delicados te permitirá flexibilidad y elegancia al mism
 
 ### Características Generales
 
-Mas información en la tabla
-
 <table style="text-align:center">
 <!-- <thead>
   <tr>

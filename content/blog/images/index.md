@@ -1,5 +1,5 @@
 ---
-title: Dimensiones
+title: Imágenes
 date: "2022-05-08"
 thumbnail: ./dress-10.jpg
 description:
@@ -23,11 +23,9 @@ description:
 
 </div>
 
-### Dimensiones Busto-Cintura-Cadera
+Para más información de talla y dimensiones [charlemos vía whatsapp](https://api.whatsapp.com/send?phone=593992555439&text=Acerca%20del%20vestido%20de%20novia..."title="chateamos por whatsapp) o puedes enviar un [Email](mailto:majose0704@hotmail.com)
 
-Con el siguiente cuadro podrás guiarte más a detalle en las dimensiones del vestido en sus diferentes secciones.
-
-<table>
+<!-- <table>
 <thead>
   <tr>
     <th>Sección</th>
@@ -54,7 +52,15 @@ Con el siguiente cuadro podrás guiarte más a detalle en las dimensiones del ve
 </tbody>
 <tfoot>
   <tr>
-    <td colSpan =3 ><i>Nota:</i> Valores aproximados</td>
+    <td colSpan =3 >Para más información de talla y dimensiones <a href="https://api.whatsapp.com/send?phone=593992555439&text=Acerca%20del%20vestido%20de%20novia..."title="chateamos por whatsapp"
+      target="_blank"
+      rel="noopener noreferrer">charlemos vía whatsapp</a> o puedes enviar un <a
+      href="mailto:majose0704@hotmail.com"
+      title="Envíame un email"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Email</td>
   </tr>
 </tfoot>
-</table>
+</table> -->
