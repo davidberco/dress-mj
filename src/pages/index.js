@@ -46,6 +46,16 @@ const BlogIndex = ({ data }, location) => {
       </figure>
       {/* End Hero Image 2 */}
 
+      <div className="post-content-body">
+        <h2>Explora una prenda de original diseño</h2>
+        <h5>Explora una prenda de original diseño</h5>
+        <p>
+          Un vestido de bodas diseñado por Angélica Novias. En perfecto estado
+          (1 día de uso), añadimos 3 accessorios (tiara, accesorio1, accesorio2)
+          sin costo adicional al comprar el vestido.
+        </p>
+      </div>
+
       <figure className="kg-card kg-image-card kg-width-full">
         <Img fluid={data.dress2.childImageSharp.fluid} className="kg-image" />
         <figcaption>
@@ -59,23 +69,13 @@ const BlogIndex = ({ data }, location) => {
         </figcaption>
       </figure>
 
-      <div className="post-content-body">
-        <h2>Explora una prenda de original diseño</h2>
-        <h5>Explora una prenda de original diseño</h5>
-        <p>
-          Un vestido de bodas diseñado por Angélica Novias. En perfecto estado
-          (1 día de uso), añadimos 3 accessorios (tiara, accesorio1, accesorio2)
-          sin costo adicional al comprar el vestido.
-        </p>
-      </div>
-
-      {data.site.siteMetadata.description && (
+      {/* {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
         </header>
-      )}
+      )} */}
 
       <div className="post-feed">
         {posts.map(({ node }) => {
@@ -124,21 +124,21 @@ const indexQuery = graphql`
         }
       }
     }
-    dress0: file(relativePath: { eq: "cate-bligh-B_P6nONZk58-unsplash.jpg" }) {
+    dress0: file(relativePath: { eq: "dress-23edit.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
         }
       }
     }
-    dress1: file(relativePath: { eq: "dress-1.jpg" }) {
+    dress1: file(relativePath: { eq: "dress-18.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
         }
       }
     }
-    dress2: file(relativePath: { eq: "dress-2.jpg" }) {
+    dress2: file(relativePath: { eq: "dress-12.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
@@ -146,7 +146,7 @@ const indexQuery = graphql`
       }
     }
 
-    dress3: file(relativePath: { eq: "dress-8.jpg" }) {
+    dress3: file(relativePath: { eq: "dress-11.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid

@@ -10,7 +10,31 @@ Esta prenda de detalles delicados te permitirá flexibilidad y elegancia al mism
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Detalles](./dress-4.jpg)
+![Detalles](./dress-15.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Detalles](./dress-16.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Detalles](./dress-14.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Detalles](./dress-5.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Detalles](./dress-19.jpg)
 
 </div>
 

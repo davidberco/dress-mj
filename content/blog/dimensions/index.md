@@ -1,13 +1,25 @@
 ---
 title: Dimensiones
 date: "2022-05-08"
-thumbnail: ./dress-7.jpg
+thumbnail: ./dress-10.jpg
 description:
 ---
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Vestido-bodas](./dress-7.jpg)
+![Vestido-bodas](./dress-10.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Vestido-bodas](./dress-22.jpg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-full">
+
+![Vestido-bodas](./dress-3.jpg)
 
 </div>
 
@@ -32,7 +44,7 @@ Con el siguiente cuadro podrás guiarte más a detalle en las dimensiones del ve
   <tr>
     <td>Cintura</td>
     <td>60 - 70</td>
-    <td>En la ciintura se puede ajustar.</td>
+    <td>En la cintura se puede ajustar.</td>
   </tr>
   <tr>
     <td>Cadera</td>

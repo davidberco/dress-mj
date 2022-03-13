@@ -1,15 +1,14 @@
 ---
+
 title: Accesorios
 date: "2015-05-28T22:40:32.169Z"
 description: Accesorios incluídos con el vestido de bodas.
-thumbnail: ./artsy-vibes-PSzspSuW7qk-unsplash.jpg
----
-
-## Tiara
+thumbnail: ./dress-20.jpg
+---## Tiara
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Tiara](./tiara.jpg)
+![Tiara](./dress-8.jpg)
 
 </div>
 
@@ -20,7 +19,7 @@ Commas.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![ring holder](./ring-holder.jpg)
+![ring holder](./dress-7.jpg)
 
 </div>
 
@@ -31,17 +30,8 @@ few insidious Copy Writers ambushed her.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![ring holder](./azar.jpg)
+![ring holder](./dress-9.jpg)
 
 </div>
 
 But nothing the copy said could convince her and so it didn’t take long until.
-
-<div class="kg-card kg-image-card kg-width-full">
-
-![ring holder](./azar2.jpg)
-
-</div>
-
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth.
